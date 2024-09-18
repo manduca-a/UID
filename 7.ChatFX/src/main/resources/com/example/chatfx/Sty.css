@@ -1,0 +1,19 @@
+#first {
+  -fx-color: #202021;
+}
+
+.button:hover {
+    -fx-color: #202021;
+}
+
+#inputText, #chatText{
+    -fx-control-inner-background:#202021;
+    -fx-text-fill: white;
+}
+
+#ChtContainer, #chats, .label {
+    -fx-text-color: white;
+    -fx-color: #202021;
+    -fx-background: #202021;
+    -fx-background-color: #202021;
+}
